@@ -1,0 +1,5 @@
+Server:	drona.db.elephantsql.com (drona-01)
+Region:	amazon-web-services::us-east-1
+User & Default database: pyrenwzv
+Password: ZSIvScnLSKbP1up3Dwe7PonYencxPjyr
+URL: postgres://pyrenwzv:ZSIvScnLSKbP1up3Dwe7PonYencxPjyr@drona.db.elephantsql.com/pyrenwzv

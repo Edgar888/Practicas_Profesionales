@@ -1,0 +1,5 @@
+Server	drona.db.elephantsql.com (drona-01)
+Region	amazon-web-services::us-east-1
+User & Default database	cnovucuv
+Password	tWV8PRFBckV7FhM1oOEGLvTurHdcUku_ 
+URL	postgres://cnovucuv:tWV8PRFBckV7FhM1oOEGLvTurHdcUku_@drona.db.elephantsql.com/cnovucuv 
